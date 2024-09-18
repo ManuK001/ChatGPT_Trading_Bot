@@ -54,3 +54,6 @@ def run_colab():
 ## Credits & More Resources
 
 Credits for the notebook go to the AI4FinanceFoundation, and for the API go to Alpaca.
+
+## Reference
+https://www.youtube.com/watch?v=fhBw3j_O9LE
